@@ -15,28 +15,47 @@
     {
       "id": 3,
       "name": "Car Radiator",
-      "price": 300,
+      "price": 30000,
       "imgName": "car_radiator.png"
     },
     {
       "id": 4,
       "name": "Fuel Pump",
-      "price": 160,
+      "price": 16000,
       "imgName": "fuel_pump.png"
-    }
-  ],
-  "merch": [
+    },
     {
       "id": 5,
-      "name": "T-Shirt",
-      "price": 1999,
-      "imgName": "Shirt.png"
+      "name": "Display Unit",
+      "price": 23999,
+      "imgName": "display_unit.png"
     },
     {
       "id": 6,
-      "name": "Coffee Cup",
-      "price": 699,
-      "imgName": "Cofee.png"
+      "name": "Racing Steering Wheel",
+      "price": 16999,
+      "imgName": "steering_wheel.png"
+    },
+    {
+      "id": 7,
+      "name": "Racing Seats",
+      "price": 69999,
+      "imgName": "racing_seats.png"
+    },
+    {
+      "id": 8,
+      "name": "Hand Brake",
+      "price": 4999,
+      "imgName": "hand_brake.png"
+    },
+    {
+      "id": 9,
+      "name": "Boost Gauge",
+      "price": 5432,
+      "imgName": "boost_gauge.jpg"
     }
+  ],
+  "merch": [
+    
   ]
 }
