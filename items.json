@@ -2,26 +2,26 @@
   "music": [
     {
       "id": 1,
-      "name": "Album 1",
-      "price": 1299,
+      "name": "Rear Spoiler",
+      "price": 8199,
       "imgName": "rear_spoiler.png"
     },
     {
       "id": 2,
-      "name": "Album 2",
-      "price": 1499,
+      "name": "Turbo Charger",
+      "price": 155145,
       "imgName": "turbo_charger.png"
     },
     {
       "id": 3,
-      "name": "Album 3",
-      "price": 999,
+      "name": "Car Radiator",
+      "price": 300,
       "imgName": "car_radiator.png"
     },
     {
       "id": 4,
-      "name": "Album 4",
-      "price": 1999,
+      "name": "Fuel Pump",
+      "price": 160,
       "imgName": "fuel_pump.png"
     }
   ],
