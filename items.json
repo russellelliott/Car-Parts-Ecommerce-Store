@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Album 1",
       "price": 1299,
-      "imgName": "Album 1.png"
+      "imgName": "rear_spoiler.png"
     },
     {
       "id": 2,
       "name": "Album 2",
       "price": 1499,
-      "imgName": "Album 2.png"
+      "imgName": "turbo_charger.png"
     },
     {
       "id": 3,
       "name": "Album 3",
       "price": 999,
-      "imgName": "Album 3.png"
+      "imgName": "car_radiator.png"
     },
     {
       "id": 4,
       "name": "Album 4",
       "price": 1999,
-      "imgName": "Album 4.png"
+      "imgName": "fuel_pump.png"
     }
   ],
   "merch": [
